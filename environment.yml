@@ -1,0 +1,6 @@
+//Sample from Anne's code
+name: example-environment
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
