@@ -7,3 +7,4 @@ dependencies:
   - scipy
   - pearsonr
   - statistics
+  - pyplot
