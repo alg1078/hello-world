@@ -5,6 +5,3 @@ dependencies:
   - pandas
   - datetime
   - scipy
-  - pearsonr
-  - statistics
-  - pyplot
